@@ -4,6 +4,7 @@ title: Coordinare l'Aperitivo Improvvisato Senza Stress
 subtitle: Come ottenere risposte immediate per i tuoi eventi last-minute con un solo link
 tags: [organizzazione eventi, aperitivo]
 author: ijoin.app
+language: it
 ---
 
 # Stop ai 100 Messaggi- Fantastico Evento Last-Minute con Risposte Certe

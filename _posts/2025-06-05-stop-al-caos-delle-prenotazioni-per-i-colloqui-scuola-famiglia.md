@@ -4,6 +4,7 @@ title: Stop al Caos delle Prenotazioni per i Colloqui Scuola Famiglia
 subtitle: Massimizza la partecipazione e organizza i colloqui con ijoin.app
 tags: [Gestione Eventi Scolastici, Prenotazione Colloqui]
 author: ijoin.app
+language: it
 ---
 
 # Stop al Caos delle Prenotazioni per i Colloqui Scuola Famiglia

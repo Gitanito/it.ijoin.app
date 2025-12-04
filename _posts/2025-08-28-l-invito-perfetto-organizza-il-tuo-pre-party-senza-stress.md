@@ -4,6 +4,7 @@ title: L'Invito Perfetto- Organizza il tuo Pre-Party senza Stress
 subtitle: Massimizza le partecipazioni al tuo evento pre-concerto con un solo link magico
 tags: [organizzazione eventi, pre-party]
 author: ijoin.app
+language: it
 ---
 
 # L'Invito Perfetto: Organizzi un Pre-Party Leggendario Prima del Concerto?

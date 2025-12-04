@@ -4,6 +4,7 @@ title: Basta con i Gruppi WhatsApp Caotici - Gestisci la Tua Squadra Sportiva Se
 subtitle: Massimizza la Partecipazione agli Allenamenti e alle Partite con un Solo Link
 tags: [gestione squadra sportiva, conferma presenze eventi]
 author: ijoin.app
+language: it
 ---
 # Basta con i Gruppi WhatsApp Caotici - Gestisci la Tua Squadra Sportiva Senza Stress
 

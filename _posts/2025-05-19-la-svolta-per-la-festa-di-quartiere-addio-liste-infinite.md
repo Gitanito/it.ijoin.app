@@ -4,6 +4,7 @@ title: La Svolta per la Festa di Quartiere - Addio Liste Infinite
 subtitle: Organizza il tuo evento di vicinato senza stress e massimizza la partecipazione
 tags: [Organizzazione Eventi, Festa di Quartiere]
 author: ijoin.app
+language: it
 ---
 # Trasforma la Festa di Quartiere da Caos a Celebrazione Perfetta
 

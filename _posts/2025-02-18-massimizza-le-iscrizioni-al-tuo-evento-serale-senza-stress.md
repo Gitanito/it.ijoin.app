@@ -4,6 +4,7 @@ title: Massimizza le Iscrizioni al Tuo Evento Serale Senza Stress
 subtitle: Dimentica Registrazioni Complesse - Rendi l'Accesso Veloce e Immediato
 tags: [organizzazione eventi, gestione ospiti]
 author: ijoin.app
+language: it
 ---
 # L'Unico Link che Ti Serve per Riempire la Tua Prossima Serata a Tema
 

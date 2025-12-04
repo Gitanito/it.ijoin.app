@@ -4,6 +4,7 @@ title: L'Invito Perfetto- Organizza i Tuoi Eventi di Co-Working Senza Stress
 subtitle: Massimizza la partecipazione ai tuoi incontri di freelance con un solo link
 tags: [evento coworking, organizzazione eventi]
 author: ijoin.app
+language: it
 ---
 
 # L'Invito Perfetto: Co-Working Flessibile e Senza Sforzo

@@ -4,6 +4,7 @@ title: L'Invito Perfetto- Organizza Eventi Flash Senza Stress o Registrazioni
 subtitle: Basta con le chat infinite- La soluzione per le conferme di partecipazione veloci e garantite
 tags: [organizzazione eventi, RSVP facile]
 author: ijoin.app
+language: it
 ---
 # L'Invito Perfetto: Organizza un Picnic Spontaneo o un'Uscita Veloce Senza il Caos delle Chat
 

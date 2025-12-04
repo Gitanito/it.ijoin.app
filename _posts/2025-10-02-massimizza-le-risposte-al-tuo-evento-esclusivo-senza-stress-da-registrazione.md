@@ -4,6 +4,7 @@ title: Massimizza le Risposte al Tuo Evento Esclusivo Senza Stress da Registrazi
 subtitle: L'Organizzazione di Eventi Privati e Pop-up-Dinner Resa Immediata
 tags: [organizzazione eventi, RSVP facile]
 author: ijoin.app
+language: it
 ---
 # L'Organizzazione di Eventi Esclusivi Diventa Magica: Zero Sforzi, Massima Adesione
 

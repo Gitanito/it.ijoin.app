@@ -4,6 +4,7 @@ title: Organizza la Prossima Iniziativa di Quartiere Senza Stress
 subtitle: Dimentica i gruppi WhatsApp infiniti e le conferme perse- Raccogli adesioni velocemente
 tags: [Organizzazione Eventi, Aiuto Comunità]
 author: ijoin.app
+language: it
 ---
 # Basta Confusione: Come Mobilitare i Vicini per l'Aiuto di Quartiere con [ijoin.app](https://ijoin.app/index-it.html)
 

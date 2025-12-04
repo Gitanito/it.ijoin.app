@@ -4,6 +4,7 @@ title: Organizza la Serata Perfetta di Public Viewing Senza Stress
 subtitle: Dimentica i messaggi infiniti- Gestisci il tuo evento sportivo di gruppo con un solo link
 tags: [organizzazione eventi sportivi, public viewing]
 author: ijoin.app
+language: it
 ---
 
 # Organizza la Serata Perfetta di Public Viewing Senza Stress

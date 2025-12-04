@@ -4,6 +4,7 @@ title: Stop al Caos Nell'Organizzazione di Eventi Scolastici
 subtitle: La Soluzione Semplice per Coordinare Feste e Riunioni Senza Stress
 tags: Eventi Scolastici, Coordinamento Genitori
 author: ijoin.app
+language: it
 ---
 # Stop al Caos Nell'Organizzazione di Eventi Scolastici
 

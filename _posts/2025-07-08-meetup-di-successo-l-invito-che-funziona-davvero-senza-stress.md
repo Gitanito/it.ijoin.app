@@ -4,6 +4,7 @@ title: Meetup di Successo - L'Invito che Funziona Davvero Senza Stress
 subtitle: Organizza il tuo prossimo evento di networking senza l'incubo delle conferme
 tags: [organizzazione eventi, networking professionale]
 author: ijoin.app
+language: it
 ---
 
 # Massimizza la Partecipazione al Tuo Prossimo Meetup Professionale

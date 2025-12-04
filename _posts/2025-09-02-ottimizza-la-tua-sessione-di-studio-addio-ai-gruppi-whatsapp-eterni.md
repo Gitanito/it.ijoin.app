@@ -4,6 +4,7 @@ title: Ottimizza la tua sessione di studio- Addio ai gruppi WhatsApp eterni
 subtitle: Raccogli le adesioni per la tua prossima maratona di studio senza stress, login o app complesse
 tags: [organizzazione eventi, gruppi di studio]
 author: ijoin.app
+language: it
 ---
 # La Soluzione Definitiva per Coordinare il Tuo Gruppo di Studio Universitario
 

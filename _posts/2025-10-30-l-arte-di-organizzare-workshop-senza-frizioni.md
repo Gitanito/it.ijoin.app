@@ -4,6 +4,7 @@ title: L'Arte di Organizzare Workshop Senza Frizioni
 subtitle: Raddoppia la Partecipazione ai Tuoi Eventi Creativi Dimenticando i Moduli Complicati
 tags: [organizzazione eventi, workshop creativi]
 author: ijoin.app
+language: it
 ---
 
 # L'Arte di Organizzare Workshop Creativi Senza Barriere di Iscrizione

@@ -4,6 +4,7 @@ title: L'Invito Perfetto per il tuo Evento Spontaneo - Grigliata e Dintorni
 subtitle: Massimizza le adesioni ai tuoi eventi senza stress e senza registrazioni
 tags: [organizzazione eventi, grigliata spontanea]
 author: ijoin.app
+language: it
 ---
 
 # Stop ai Caos di Gruppo-Chat: Organizza il Tuo Prossimo Evento Spontaneo (Come una Grigliata al Volo)

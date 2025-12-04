@@ -4,6 +4,7 @@ title: Escursioni Perfette Addio all'Ansia da Organizzazione
 subtitle: Gestisci Raduni di Trekking e Bici Senza Stress o Registrazioni
 tags: [Organizzazione Eventi, Trekking]
 author: ijoin.app
+language: it
 ---
 
 # Escursioni Perfette: Addio all'Ansia da Organizzazione di Gruppo

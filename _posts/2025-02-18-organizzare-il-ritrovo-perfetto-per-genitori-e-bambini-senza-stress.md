@@ -4,6 +4,7 @@ title: Organizzare il Ritrovo Perfetto per Genitori e Bambini - Senza Stress
 subtitle: Basta con le chat di gruppo infinite. Pianifica giochi e uscite in pochi secondi
 tags: [organizzazione eventi genitori, ritrovi spontanei bambini]
 author: ijoin.app
+language: it
 ---
 # Basta Chat Infinite! Come Organizzare Ritrovi Spontanei per Genitori e Bambini in 3 Clic
 

@@ -4,6 +4,7 @@ title: Massimizza le Risposte del tuo Club del Libro Senza Chiedere Registrazion
 subtitle: Basta con le chat infinite - Ottieni conferme immediate per i tuoi eventi settimanali
 tags: [organizzazione eventi, club del libro]
 author: ijoin.app
+language: it
 ---
 
 # L'Organizzazione Semplice che il Tuo Club del Libro Merita

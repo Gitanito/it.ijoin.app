@@ -4,6 +4,7 @@ title: Organizza i tuoi After-Work - Addio Chat di Gruppo Infinite
 subtitle: Il modo più rapido per invitare colleghi e amici a un evento senza complicazioni
 tags: [Eventi Aziendali, Organizzazione Facile]
 author: ijoin.app
+language: it
 ---
 
 # Organizza i tuoi After-Work - Addio Chat di Gruppo Infinite

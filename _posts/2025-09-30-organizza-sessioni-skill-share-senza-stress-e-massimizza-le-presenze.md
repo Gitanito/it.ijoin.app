@@ -4,6 +4,7 @@ title: Organizza Sessioni Skill-Share Senza Stress e Massimizza le Presenze
 subtitle: La soluzione gratuita che elimina registrazioni e login per i tuoi eventi comunitari
 tags: [Gestione Eventi, Community Skill-Sharing]
 author: ijoin.app
+language: it
 ---
 # L'Unico Link per Trasformare le Tue Sessioni Skill-Share Locali in Successi Garantiti
 

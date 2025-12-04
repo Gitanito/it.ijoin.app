@@ -4,6 +4,7 @@ title: Stop al Caos degli Inviti - Organizza Feste di Compleanno Perfette
 subtitle: Massima Partecipazione e Zero Stress per la Tua Prossima Festa per Bambini
 tags: [organizzazione eventi, feste bambini]
 author: ijoin.app
+language: it
 ---
 
 # L'Incubo del RSVP è Finito – Come Massimizzare le Conferme per la Tua Festa

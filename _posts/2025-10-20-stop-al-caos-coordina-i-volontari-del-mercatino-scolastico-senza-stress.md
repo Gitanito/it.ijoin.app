@@ -4,6 +4,7 @@ title: Stop al Caos- Coordina i Volontari del Mercatino Scolastico Senza Stress
 subtitle: Massimizza l'Iscrizione dei Genitori Volontari con un Link Semplice
 tags: [Coordinamento Volontari, Eventi Scolastici]
 author: ijoin.app
+language: it
 ---
 
 # Coordinamento Volontari per Eventi Scolastici - Semplice e Veloce

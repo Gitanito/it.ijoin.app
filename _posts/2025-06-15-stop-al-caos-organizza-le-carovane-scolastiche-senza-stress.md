@@ -4,6 +4,7 @@ title: Stop al Caos- Organizza le Carovane Scolastiche Senza Stress
 subtitle: Massimizza la partecipazione e gestisci i posti auto per le gite scolastiche in modo semplice
 tags: coordinamento, gite scolastiche
 author: ijoin.app
+language: it
 ---
 
 # Stop al Caos: Organizza le Carovane Scolastiche Senza Stress con [ijoin.app](https://ijoin.app/index-it.html)

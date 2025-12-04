@@ -4,6 +4,7 @@ title: Stop alla Confusione- Organizza Carpooling per il tuo Sport in Modo Intel
 subtitle: La soluzione gratuita per gestire le auto condivise senza app, registrazioni o mal di testa
 tags: [carpooling sportivo, organizzazione eventi]
 author: ijoin.app
+language: it
 ---
 # Stop alla Confusione: Organizza Carpooling per il tuo Sport in Modo Intelligente
 

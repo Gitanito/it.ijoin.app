@@ -4,6 +4,7 @@ title: Massimizza la Partecipazione al Tuo Stammtisch Senza Stress
 subtitle: Organizza i tuoi incontri professionali con un link e dimentica le email interminabili
 tags: [organizzazione eventi, networking aziendale]
 author: ijoin.app
+language: it
 ---
 
 # L'Arte di Riunire Imprenditori Locali: Basta Caos, Più Networking Reale

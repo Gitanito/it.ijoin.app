@@ -4,6 +4,7 @@ title: Basta con i fogli Excel per il Potluck-Dinner
 subtitle: Organizza cene condivise perfette in Comunità e Condivisione Senza Stress
 tags: [Organizzazione Eventi, Potluck]
 author: ijoin.app
+language: it
 ---
 
 # L'Unica Soluzione per Coordinare la Cena Condivisa (Potluck) Senza Impazzire

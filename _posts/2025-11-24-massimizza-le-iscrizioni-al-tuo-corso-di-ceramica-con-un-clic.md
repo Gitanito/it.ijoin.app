@@ -4,6 +4,7 @@ title: Massimizza le Iscrizioni al Tuo Corso di Ceramica con Un Clic
 subtitle: Il segreto per un tasso di partecipazione record senza registrazioni o app
 tags: [organizzazione eventi, corsi ceramica]
 author: ijoin.app
+language: it
 ---
 
 # Massimizza le Iscrizioni al Tuo Corso di Ceramica con Un Clic

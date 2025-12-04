@@ -4,6 +4,7 @@ title: Ottieni Feedback Reale - Massimizza le Iscrizioni alle Tue Sessioni di Pr
 subtitle: La soluzione gratuita e immediata per organizzare sessioni di feedback UX/UI senza attriti
 tags: [UX/UI Feedback, Organizzazione Eventi]
 author: ijoin.app
+language: it
 ---
 # Ottieni Feedback Reale - Massimizza le Iscrizioni alle Tue Sessioni di Prova
 

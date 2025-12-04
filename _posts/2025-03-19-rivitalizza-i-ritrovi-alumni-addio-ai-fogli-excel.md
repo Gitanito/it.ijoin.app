@@ -4,6 +4,7 @@ title: Rivitalizza i ritrovi Alumni - Addio ai fogli Excel
 subtitle: Organizza il tuo Alumni-Stammtisch mensile con zero stress e massima partecipazione
 tags: [organizzazione eventi, alumni]
 author: ijoin.app
+language: it
 ---
 # Rivitalizza i ritrovi Alumni - Addio ai fogli Excel
 

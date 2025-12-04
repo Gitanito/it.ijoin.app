@@ -4,6 +4,7 @@ title: Lancio Beta Semplificato - Ottieni Risposte Senza Stress
 subtitle: Invita i tuoi tester e ricevi conferme immediate senza login obbligatori
 tags: [organizzazione eventi, beta testing]
 author: ijoin.app
+language: it
 ---
 # Invita i Tuoi Beta Tester e Raddoppia il Tasso di Risposta con Facilità
 

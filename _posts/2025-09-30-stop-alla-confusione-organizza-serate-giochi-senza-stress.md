@@ -4,6 +4,7 @@ title: Stop alla Confusione- Organizza Serate Giochi Senza Stress
 subtitle: Inviti Perfetti per il Tuo Club o Evento Ricorrente- Massima Partecipazione Garantita
 tags: [organizzazione eventi, serate giochi]
 author: ijoin.app
+language: it
 ---
 # Stop alla Confusione: Organizza Serate Giochi Senza Stress
 
